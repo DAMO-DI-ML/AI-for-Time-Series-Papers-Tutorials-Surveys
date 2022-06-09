@@ -12,7 +12,7 @@ The top conferences including:
 The top journals including (mainly for survey papers):
 PIEEE, CACM, TPAMI, TKDE, TNNLS, TITS, TIST, SPM, JMLR, JAIR, CSUR, DMKD, KAIS, IJF, arXiv(selected), etc.
 
-This list is also simultaneously updated in the [AI4TS Paper Repo](https://github.com/qingsongedu/awesome-AI-for-time-series-papers).
+This list is also simultaneously updated in the Repo [AI4TS Paper](https://github.com/qingsongedu/awesome-AI-for-time-series-papers).
 
 ## Most Recent Update Note
 - [2022-06-02] Add papers accepted by ICML'22, ICLR'22, AAAI'22, IJCAI'22!
