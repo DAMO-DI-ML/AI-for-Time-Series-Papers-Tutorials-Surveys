@@ -1,25 +1,32 @@
-# AI-for-Time-Series-Papers-Tutorials-Surveys
+# AI for Time Series (AI4TS) Papers, Tutorials, and Surveys
 
-A professionally curated list of papers (with available code), tutorials, and surveys on recent **AI for Time Series Analysis (AI4TS)**, including Time Series, Spatio-Temporal Data, Event Data, Sequence Data, Temporal Point Processes, etc., at the **Top AI Conferences and Journals**, which is **updated ASAP (the earliest time)** once the accepted papers are announced in the corresponding top AI conferences/journals. 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
+![Stars](https://img.shields.io/github/stars/qingsongedu/awesome-AI-for-time-series-papers)
+[![Visits Badge](https://badges.pufler.dev/visits/qingsongedu/awesome-AI-for-time-series-papers)](https://badges.pufler.dev/visits/qingsongedu/awesome-AI-for-time-series-papers)
+<!-- ![Forks](https://img.shields.io/github/forks/qingsongedu/awesome-AI-for-time-series-papers) -->
+
+A professionally curated list of papers (with available code), tutorials, and surveys on recent **AI for Time Series Analysis (AI4TS)**, including Time Series, Spatio-Temporal Data, Event Data, Sequence Data, Temporal Point Processes, etc., at the **Top AI Conferences and Journals**, which is **updated ASAP (the earliest time)** once the accepted papers are announced in the corresponding top AI conferences/journals. Hope this list would be helpful for researchers and engineers who are interested in AI for Time Series Analysis.
 
 The top conferences including:
 - Machine Learning: NeurIPS, ICML, ICLR
 - Data Mining: KDD
 - Artificial Intelligence: AAAI, IJCAI
 - Data Management: SIGMOD, VLDB, ICDE
-- Misc: WWW, AISTAT, CIKM, ICDM, WSDM, SIGIR, etc.
+- Misc (selected): WWW, AISTAT, CIKM, ICDM, WSDM, SIGIR, ICASSP, CVPR, ICCV, etc.
 
 The top journals including (mainly for survey papers):
-PIEEE, CACM, TPAMI, TKDE, TNNLS, TITS, TIST, SPM, JMLR, JAIR, CSUR, DMKD, KAIS, IJF, arXiv(selected), etc.
+CACM, PIEEE, TPAMI, TKDE, TNNLS, TITS, TIST, SPM, JMLR, JAIR, CSUR, DMKD, KAIS, IJF, arXiv(selected), etc.
 
-This list is also simultaneously updated in the Repo [AI4TS Paper](https://github.com/qingsongedu/awesome-AI-for-time-series-papers).
+If you found any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.
 
 ## Most Recent Update Note
 - [2022-06-02] Add papers accepted by ICML'22, ICLR'22, AAAI'22, IJCAI'22!
 
 ## Table of Contents
 - [AI4TS Tutorials and Surveys](#AI4TS-Tutorials-and-Surveys)
-  * [AI4TS Tutorials](#AI4TS-Tutorials),     [AI4TS Surveys](#AI4TS-Surveys)
+  * [AI4TS Tutorials](#AI4TS-Tutorials)
+  * [AI4TS Surveys](#AI4TS-Surveys)
  
 - [AI4TS Papers 2022](#AI4TS-Papers-2022)
   * [NeurIPS 2022](#NeurIPS-2022), [ICML 2022](#ICML-2022), [ICLR 2022](#ICLR-2022)
@@ -39,8 +46,6 @@ This list is also simultaneously updated in the Repo [AI4TS Paper](https://githu
   * [SIGMOD VLDB ICDE 201X-2020](#SIGMOD-VLDB-ICDE-201X-2020)
   * [Misc 201X-2020](#Misc-201X-2020)
 
-- [Related AI Tutorials and Surveys](#Related-AI-Tutorials-and-Surveys)
-  * [Related AI Tutorials](#Related-AI-Tutorials),     [Related AI Surveys](#Related-AI-Surveys)
 
 ## AI4TS Tutorials and Surveys
 ### AI4TS Tutorials
@@ -51,6 +56,7 @@ This list is also simultaneously updated in the Repo [AI4TS Paper](https://githu
 * Time Series Anomaly Detection: Tools, Techniques and Tricks, in *DASFAA* 2022. [\[Link\]](https://www.dasfaa2022.org//tutorials/Time%20Series%20Anomaly%20Result%20Master%20File_Dasfaa_2022.pdf)
 * Modern Aspects of Big Time Series Forecasting, in *IJCAI* 2021. [\[Link\]](https://lovvge.github.io/Forecasting-Tutorial-IJCAI-2021/)
 * Explainable AI for Societal Event Predictions: Foundations, Methods, and Applications, in *AAAI* 2021. [\[Link\]](https://yue-ning.github.io/aaai-21-tutorial.html)
+* Physics-Guided AI for Large-Scale Spatiotemporal Data, in *KDD* 2021. [\[Link\]](https://sites.google.com/view/kdd2021tutorial/home)
 * Building Forecasting Solutions Using Open-Source and Azure Machine Learning, in *KDD* 2020. [\[Link\]](https://chenhuims.github.io/forecasting/)
 * Interpreting and Explaining Deep Neural Networks: A Perspective on Time Series Data, *KDD* 2020. [\[Link\]](https://xai.kaist.ac.kr/Tutorial/2020/)
 * Forecasting Big Time Series: Theory and Practice, *KDD* 2019. [\[Link\]](https://lovvge.github.io/Forecasting-Tutorial-KDD-2019/)
@@ -689,78 +695,3 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 
 
 
-
-## Related AI Tutorials and Surveys
-### Related AI Tutorials
-* Deep Implicit Layers - Neural ODEs, Deep Equilibirum Models, and Beyond, *NeurIPS* 2020. [\[Link\]](http://implicit-layers-tutorial.org/)
-* Machine Learning with Signal Processing, *ICML* 2020. [\[Link\]](https://users.aalto.fi/~asolin/teaching/#tutorials)
-* Deep Learning for Anomaly Detection, in *KDD* 2020. [\[Link\]](https://www.youtube.com/watch?v=Fn0qDbKL3UI&list=PLn0nrSd4xjja7AD3aY9Jxmr820gx59EQC&index=67) 
-
-
-<!--    [\[paper\]]()      [\[official code\]]()   --> 
-
-### Related AI Surveys
-#### Anomaly detection and OOD
-* A unifying review of deep and shallow anomaly detection, PIEEE'21. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9347460) 
-* Deep learning for anomaly detection: A review, CSUR'20. [\[paper\]](https://arxiv.org/abs/2007.02500) 
-* A Comprehensive Survey on Graph Anomaly Detection with Deep Learning, TKDE'21. [\[paper\]](https://arxiv.org/abs/2106.07178)  
-* Graph based anomaly detection and description: a survey, DMKD'15. [\[paper\]](https://arxiv.org/abs/1404.4679)
-* Anomaly detection in dynamic networks: a survey, WICS'15. [\[paper\]](https://wires.onlinelibrary.wiley.com/doi/pdf/10.1002/wics.1347) 
-* Anomaly detection: A survey, CSUR'09. [\[paper\]](https://www.profsandhu.com/cs5323_s17/a15-chandola.pdf) 
-* A Unified Survey on Anomaly, Novelty, Open-Set, and Out-of-Distribution Detection: Solutions and Future Challenges, arXiv'21. [\[paper\]](https://arxiv.org/abs/2110.14051)
-
-#### XAI
-* Explaining deep neural networks and beyond: A review of methods and applications, PIEEE'21. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9369420)
-* Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI, Information Fusion'20. [\[paper\]](https://www.sciencedirect.com/science/article/abs/pii/S1566253519308103)
-* A survey on the explainability of supervised machine learning, JAIR'21. [\[paper\]](https://www.jair.org/index.php/jair/article/download/12228/26647)
-* Techniques for Interpretable Machine Learning, CACM'19. [\[paper\]](https://arxiv.org/abs/1808.00033) 
-
-#### autoML
-* AutoML: A survey of the state-of-the-art, Knowledge-Based Systems'21. [\[paper\]](https://www.sciencedirect.com/science/article/abs/pii/S0950705120307516)  
-* Benchmark and survey of automated machine learning frameworks, JAIR'21. [\[paper\]](https://www.jair.org/index.php/jair/article/view/11854)
-* AutoML to Date and Beyond: Challenges and Opportunities, CSUR'22. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3470918)
-* Automated Machine Learning on Graphs: A Survey, IJCAI'21. [\[paper\]](https://www.ijcai.org/proceedings/2021/637)
-* Others: awesome-automl-papers. [\[repo\]](https://github.com/hibayesian/awesome-automl-papers)
-
-
-#### Transformer and Attention
-* A survey on visual transformer, in *IEEE TPAMI* 2022. [\[paper\]](https://arxiv.org/abs/2012.12556)
-* Transformers in vision: A survey, in *ACM Computing Surveys* 2021. [\[paper\]](https://arxiv.org/abs/2101.01169)
-* Efficient transformers: A survey, in *arXiv* 2022. [\[paper\]](https://arxiv.org/abs/2009.06732)
-* A General Survey on Attention Mechanisms in Deep Learning, in *IEEE TKDE* 2022. [\[paper\]](https://personal.eur.nl/frasincar/papers/TKDE2022/tkde2022.pdf)
-* Attention, please! A survey of neural attention models in deep learning, in *Artificial Intelligence Review* 2022. [\[paper\]](https://link.springer.com/article/10.1007/s10462-022-10148-x)
-* An attentive survey of attention models, in *ACM TIST* 2021. [\[paper\]](https://arxiv.org/abs/1904.02874)
-* Attention in natural language processing, in *IEEE TNNLS* 2020. [\[paper\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9194070)
-
-#### Self-Supervised Learning
-* Self-supervised visual feature learning with deep neural networks: A survey, in *IEEE TPAMI* 2020. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9086055)
-* Self-supervised Learning: Generative or Contrastive, TKDE'21. [\[paper\]](https://arxiv.org/abs/2006.08218)
-* Self-Supervised Representation Learning: Introduction, advances, and challenges, SPG'22. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9770283/)
-
-#### Graph Neural Networks 
-* A comprehensive survey on graph neural networks, TNNLS'20. [\[paper\]](https://arxiv.org/abs/1901.00596)
-* Deep learning on graphs: A survey, TKDE'20. [\[paper\]](https://arxiv.org/abs/1812.04202)
-* Graph neural networks: A review of methods and applications, AI Open'20. [\[paper\]](https://www.sciencedirect.com/science/article/pii/S2666651021000012)
-* Self-Supervised Learning of Graph Neural Networks: A Unified Review, TPAMI'22. [\[paper\]](https://arxiv.org/abs/2102.10757)
-* Graph Self-Supervised Learning: A Survey, TKDE'22. [\[paper\]](https://arxiv.org/abs/2103.00111)
-* Self-supervised learning on graphs: Contrastive, generative, or predictive, TKDE'21. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9632431)
-
-#### Federated Learning
-* Federated machine learning: Concept and applications, TIST'19. [\[paper\]](https://arxiv.org/abs/1902.04885)
-* Advances and open problems in federated learning, now'21. [\[paper\]](https://www.nowpublishers.com/article/Details/MAL-083)
-* A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection, TKDE'21. [\[paper\]](https://arxiv.org/abs/1907.09693)
-* A comprehensive survey of privacy-preserving federated learning: A taxonomy, review, and future directions, CSUR'21. [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3460427)
-* A survey on federated learning, Knowledge-Based Systems'21. [\[paper\]](https://www.sciencedirect.com/science/article/abs/pii/S0950705121000381)
-* A Survey on Federated Learning: The Journey From Centralized to Distributed On-Site Learning and Beyond, JIOT'20. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9220780)
-* Federated learning: Challenges, methods, and future directions, SPG'20. [\[paper\]](https://ieeexplore.ieee.org/document/9084352)
-
-<!-- [\[paper\]]() -->
-#### Others
-* A continual learning survey: Defying forgetting in classification tasks, in *IEEE TPAMI* 2021. [\[paper\]](https://arxiv.org/abs/1909.08383)
-* Learning under concept drift: A review, in *IEEE TKDE* 2018. [\[paper\]](https://arxiv.org/abs/2004.05785)
-* Online learning: A comprehensive survey, Neucom'21. [\[paper\]](https://www.sciencedirect.com/science/article/abs/pii/S0925231221006706)
-* Classification in the presence of label noise: a survey, TNNLS'13. [\[paper\]](https://romisatriawahono.net/lecture/rm/survey/machine%20learning/Frenay%20-%20Classification%20in%20the%20Presence%20of%20Label%20Noise%20-%202014.pdf)
-* Learning from imbalanced data, TKDE'09. [\[paper\]]()
-* A Systematic Review on Imbalanced Data Challenges in Machine Learning: Applications and Solutions, CSUR'20. [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3343440)
-* Imbalance problems in object detection: A review, TPAMI'20. [\[paper\]](https://arxiv.org/abs/1909.00169)
-* Learning to optimize: A primer and a benchmark, arXiv'21. [\[paper\]](https://arxiv.org/abs/2103.12828)
