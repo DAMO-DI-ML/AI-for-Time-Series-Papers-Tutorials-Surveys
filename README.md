@@ -4,7 +4,7 @@
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
 
 
-A professionally curated list of papers (with available code), tutorials, and surveys on recent **AI for Time Series Analysis (AI4TS)**, including Time Series, Spatio-Temporal Data, Event Data, Sequence Data, Temporal Point Processes, etc., at the **Top AI Conferences and Journals**, which is **updated ASAP (the earliest time)** once the accepted papers are announced in the corresponding top AI conferences/journals. Hope this list would be helpful for researchers and engineers who are interested in AI for Time Series Analysis.
+A professionally curated list of papers (with available code), tutorials, and surveys on recent **AI for Time Series Analysis (AI4TS)**, including Time Series, Spatio-Temporal Data, Event Data, Sequence Data, Temporal Point Processes, etc., at the **Top AI Conferences and Journals**, which is **updated ASAP (the earliest time)** once the accepted papers are announced in the corresponding top AI conferences/journals. 
 
 The top conferences including:
 - Machine Learning: NeurIPS, ICML, ICLR
@@ -16,7 +16,7 @@ The top conferences including:
 The top journals including (mainly for survey papers):
 CACM, PIEEE, TPAMI, TKDE, TNNLS, TITS, TIST, SPM, JMLR, JAIR, CSUR, DMKD, KAIS, IJF, arXiv(selected), etc.
 
-If you found any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.
+This list is also simultaneously updated in the Repo [AI4TS Paper](https://github.com/qingsongedu/awesome-AI-for-time-series-papers).
 
 ## Most Recent Update Note
 - [2022-06-02] Add papers accepted by ICML'22, ICLR'22, AAAI'22, IJCAI'22!
